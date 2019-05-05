@@ -45,6 +45,7 @@ public class ContaBancaria {
             System.out.println("|2 - Saque                     |");
             System.out.println("|3 - Transferência             |");
             System.out.println("|4 - Extrato                   |");
+            System.out.println("|0 - Sair                      |");
             System.out.println("|------------------------------|");
 
             System.out.println("O que deseja fazer?");
